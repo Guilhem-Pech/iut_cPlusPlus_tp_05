@@ -1,0 +1,18 @@
+QMAKE_DEFAULT_INCDIRS = \
+    /usr/local/include/c++/6.1.0 \
+    /usr/local/include/c++/6.1.0/x86_64-pc-linux-gnu \
+    /usr/local/include/c++/6.1.0/backward \
+    /usr/local/lib/gcc/x86_64-pc-linux-gnu/6.1.0/include \
+    /usr/local/include \
+    /usr/local/lib/gcc/x86_64-pc-linux-gnu/6.1.0/include-fixed \
+    /usr/include/x86_64-linux-gnu \
+    /usr/include
+QMAKE_DEFAULT_LIBDIRS = \
+    /usr/local/lib/gcc/x86_64-pc-linux-gnu/6.1.0 \
+    /usr/local/lib64 \
+    /lib/x86_64-linux-gnu \
+    /lib64 \
+    /usr/lib/x86_64-linux-gnu \
+    /usr/local/lib \
+    /lib \
+    /usr/lib
